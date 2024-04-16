@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1997",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "d1fb",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "3573",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "b91f",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "9774",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "f34d",
+      "title": "T1",
+      "des": "T1"
+    },
+    {
+      "id": "8b87",
+      "title": "T1",
+      "des": "T1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "truyện",
+      "des": "mo ta ngan"
+    }
+  ]
+}
